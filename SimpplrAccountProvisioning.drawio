@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-07T12:03:39.713Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="C21WLnveMykht9DgBWhK" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-07T12:05:01.124Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="jK8ocSaB9_EUmNb0m4Af" version="12.8.1" type="github">
   <diagram name="Simpplr Provisioning" id="44bbcf24-548e-d532-59d3-359de5b44cbb">
     <mxGraphModel dx="2037" dy="1059" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -221,6 +221,9 @@
               <mxPoint x="627.29" y="1042" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Yz8HIaXp1W1n1a14tK5D-64" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="371.5" y="137" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
