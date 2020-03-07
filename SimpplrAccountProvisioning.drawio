@@ -1,9 +1,12 @@
-<mxfile host="www.draw.io" modified="2020-03-07T11:24:11.159Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Byc31k93gXbF4QAr_FP5" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-07T11:29:01.796Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="EOwbkLsYP113GwQVV9T9" version="12.8.1" type="github">
   <diagram name="Simpplr Provisioning" id="44bbcf24-548e-d532-59d3-359de5b44cbb">
     <mxGraphModel dx="2037" dy="1059" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="Yz8HIaXp1W1n1a14tK5D-1" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="216" y="600" width="1062" height="262" as="geometry" />
+        </mxCell>
         <mxCell id="UKAQFLcODLnGMiNsOCqj-25" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;imageHeight=24;" parent="1" vertex="1">
           <mxGeometry x="213" y="1049.5" width="1066" height="160" as="geometry" />
         </mxCell>
@@ -17,7 +20,7 @@
           <mxGeometry x="214" y="123" width="1061" height="245" as="geometry" />
         </mxCell>
         <mxCell id="6eae4fabf1afb631-5" value="Account Enabled" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;strokeColor=#000000;shape=mxgraph.archimate3.service;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="810" y="1093.5" width="150" height="50" as="geometry" />
+          <mxGeometry x="375" y="1103" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6eae4fabf1afb631-6" value="Account Not Enabled" style="html=1;whiteSpace=wrap;fillColor=#FF0000;strokeColor=#000000;shape=mxgraph.archimate3.service;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1004" y="1093.5" width="150" height="50" as="geometry" />
@@ -69,7 +72,7 @@
           <mxGeometry x="380" y="491" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UKAQFLcODLnGMiNsOCqj-36" value="Salesforce user account created" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" parent="1" vertex="1">
-          <mxGeometry x="369.5" y="915.5" width="150" height="75" as="geometry" />
+          <mxGeometry x="296" y="914.5" width="396" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UKAQFLcODLnGMiNsOCqj-48" value="" style="endArrow=classic;html=1;exitX=0.843;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,36 +83,13 @@
         <mxCell id="UKAQFLcODLnGMiNsOCqj-49" value="Value recorded as &lt;i&gt;Contract_Type__&lt;/i&gt;c" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="1485" y="306" width="150" height="100" as="geometry" />
         </mxCell>
-        <UserObject label="Simpplr widget in user account page with option to propagate profile. Picklist: Yes or No" link="https://support.simpplr.com/customer/en/portal/articles/2154220-how-do-i-prevent-a-salesforce-user-from-appearing-in-simpplr-" id="UKAQFLcODLnGMiNsOCqj-54">
-          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" parent="1" vertex="1">
-            <mxGeometry x="630.5" y="917" width="160" height="75" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="UKAQFLcODLnGMiNsOCqj-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="6eae4fabf1afb631-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="895" y="985" as="targetPoint" />
-            <mxPoint x="894.9999999999995" y="904.9999999999998" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UKAQFLcODLnGMiNsOCqj-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1095" y="1045" as="targetPoint" />
-            <mxPoint x="904.9999999999995" y="896.0000000000002" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UKAQFLcODLnGMiNsOCqj-66" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;" parent="1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="795" y="897" as="sourcePoint" />
-            <mxPoint x="885" y="897" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UKAQFLcODLnGMiNsOCqj-84" value="&lt;span style=&quot;white-space: nowrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;User syncing source can be set as&lt;br&gt;Salesforce or Workday&lt;br&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#000000;fillColor=#FFFFFF;size=0;" parent="1" vertex="1">
           <mxGeometry x="1516" y="432" width="200" height="56" as="geometry" />
         </mxCell>
         <mxCell id="UKAQFLcODLnGMiNsOCqj-90" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;fontSize=17;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="530" y="897" as="sourcePoint" />
-            <mxPoint x="634" y="897" as="targetPoint" />
+            <mxPoint x="1471" y="854.29" as="sourcePoint" />
+            <mxPoint x="1575" y="854.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UKAQFLcODLnGMiNsOCqj-93" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;fontSize=17;" parent="1" edge="1">
@@ -129,9 +109,6 @@
         <mxCell id="UKAQFLcODLnGMiNsOCqj-100" value="User" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1435" y="1121" width="40" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="Yz8HIaXp1W1n1a14tK5D-1" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="216" y="600" width="1062" height="262" as="geometry" />
-        </mxCell>
         <mxCell id="Yz8HIaXp1W1n1a14tK5D-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yz8HIaXp1W1n1a14tK5D-4" target="Yz8HIaXp1W1n1a14tK5D-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -140,12 +117,6 @@
         </mxCell>
         <mxCell id="Yz8HIaXp1W1n1a14tK5D-4" value="Azure Syncronization" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#00FFFF;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
           <mxGeometry x="375" y="640" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="Yz8HIaXp1W1n1a14tK5D-5" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="452" y="592" as="sourcePoint" />
-            <mxPoint x="452" y="637" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Yz8HIaXp1W1n1a14tK5D-6" value="Azure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="67.5" y="698" width="135" height="20" as="geometry" />
@@ -208,10 +179,16 @@
           <mxGeometry x="231" y="721" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yz8HIaXp1W1n1a14tK5D-31" value="" style="shape=mxgraph.bpmn.script_task;html=1;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="375" y="488" width="24" height="27" as="geometry" />
+          <mxGeometry x="369.5" y="481" width="24" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Yz8HIaXp1W1n1a14tK5D-32" value="" style="shape=mxgraph.bpmn.script_task;html=1;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="558" y="718" width="24" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="Yz8HIaXp1W1n1a14tK5D-37" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="458" y="568" as="sourcePoint" />
+            <mxPoint x="458" y="640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
