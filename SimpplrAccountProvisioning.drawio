@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-09T09:24:47.828Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="a5X0XFJ6Gb-vzcv4TNZj" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-09T09:25:47.328Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Qg3Di5XueBqAWTNIx4_q" version="12.8.1" type="github">
   <diagram name="Simpplr Provisioning" id="44bbcf24-548e-d532-59d3-359de5b44cbb">
     <mxGraphModel dx="1678" dy="872" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -242,6 +242,9 @@
             <mxPoint x="294" y="1050" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jdh-N85WDiy6-VHUhyHS-23" value="Application &lt;br&gt;ecosystem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="993" width="69" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
