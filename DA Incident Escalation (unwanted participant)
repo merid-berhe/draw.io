@@ -1,57 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T12:29:57.134Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="5_E9G4UIece-fV_gvMvy" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T13:43:58.824Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="-VKCq4Irxi0dSxWNrV6j" version="14.2.3" type="github">
   <diagram id="BCS4Byyt6D9nxNQFLDX1" name="Incident">
     <mxGraphModel dx="1113" dy="689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gFOl3CqUgS5eNnGDDTqV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.179;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QTP_rjhEmB7sAVA2Bv7R-1" target="QTP_rjhEmB7sAVA2Bv7R-2">
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTP_rjhEmB7sAVA2Bv7R-1" target="gFOl3CqUgS5eNnGDDTqV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QTP_rjhEmB7sAVA2Bv7R-1" value="Unwanted participant joins session" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="250" y="46" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QTP_rjhEmB7sAVA2Bv7R-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTP_rjhEmB7sAVA2Bv7R-2" target="QTP_rjhEmB7sAVA2Bv7R-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QTP_rjhEmB7sAVA2Bv7R-2" value="Session responsible or tech support removes subject from event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="161" width="280" height="60" as="geometry" />
+          <mxGeometry x="236.5" y="290" width="147" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QTP_rjhEmB7sAVA2Bv7R-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTP_rjhEmB7sAVA2Bv7R-6" target="QTP_rjhEmB7sAVA2Bv7R-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QTP_rjhEmB7sAVA2Bv7R-6" value="Session responsible or tech support notifies: ITSecurity@weforum.org" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="298.5" y="252" width="203" height="60" as="geometry" />
+          <mxGeometry x="297.5" y="386" width="203" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QTP_rjhEmB7sAVA2Bv7R-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTP_rjhEmB7sAVA2Bv7R-7" target="QTP_rjhEmB7sAVA2Bv7R-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QTP_rjhEmB7sAVA2Bv7R-7" value="IT Security investigates incedent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="298.5" y="347" width="203" height="60" as="geometry" />
+          <mxGeometry x="297.5" y="481" width="203" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QTP_rjhEmB7sAVA2Bv7R-8" value="Investigation completed by ITSecurity, report submitted to DA Taskforce" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="298.5" y="442" width="203" height="60" as="geometry" />
+          <mxGeometry x="297.5" y="576" width="203" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QTP_rjhEmB7sAVA2Bv7R-9" value="Actionable steps recommended by ITSecurity where relevant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="298.5" y="537" width="203" height="60" as="geometry" />
+          <mxGeometry x="297.5" y="671" width="203" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QTP_rjhEmB7sAVA2Bv7R-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTP_rjhEmB7sAVA2Bv7R-9" target="QTP_rjhEmB7sAVA2Bv7R-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="549" as="sourcePoint" />
-            <mxPoint x="410" y="499" as="targetPoint" />
+            <mxPoint x="359" y="683" as="sourcePoint" />
+            <mxPoint x="409" y="633" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gFOl3CqUgS5eNnGDDTqV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.811;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="487" y="104" as="sourcePoint" />
-            <mxPoint x="487.0799999999999" y="162" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="487" y="117" />
-              <mxPoint x="487" y="117" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFOl3CqUgS5eNnGDDTqV-1" target="gFOl3CqUgS5eNnGDDTqV-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gFOl3CqUgS5eNnGDDTqV-1" value="Coordinated attempt to disrupt a session" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="427" y="46" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFOl3CqUgS5eNnGDDTqV-7" target="gFOl3CqUgS5eNnGDDTqV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-7" value="Session team member identifies intruder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-9" value="Session responsible notified" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-13" value="Session team member or live production team notices disruption" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="127" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFOl3CqUgS5eNnGDDTqV-18" target="gFOl3CqUgS5eNnGDDTqV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.953;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gFOl3CqUgS5eNnGDDTqV-18" target="QTP_rjhEmB7sAVA2Bv7R-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-18" value="Livestreaming" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="200" width="99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFOl3CqUgS5eNnGDDTqV-19" target="QTP_rjhEmB7sAVA2Bv7R-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-19" value="Cut feed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-24" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="558" y="214" width="30" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-26" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="492" y="320" width="25" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
