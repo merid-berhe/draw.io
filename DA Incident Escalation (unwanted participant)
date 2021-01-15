@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T13:43:58.824Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="-VKCq4Irxi0dSxWNrV6j" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T13:45:01.397Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qatpZhWck3RCCtq1-maZ" version="14.2.3" type="github">
   <diagram id="BCS4Byyt6D9nxNQFLDX1" name="Incident">
     <mxGraphModel dx="1113" dy="689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="QTP_rjhEmB7sAVA2Bv7R-1" value="Unwanted participant joins session" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="250" y="46" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.062;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QTP_rjhEmB7sAVA2Bv7R-2" target="QTP_rjhEmB7sAVA2Bv7R-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QTP_rjhEmB7sAVA2Bv7R-2" value="Session responsible or tech support removes subject from event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="236.5" y="290" width="147" height="60" as="geometry" />
@@ -49,8 +52,14 @@
         <mxCell id="gFOl3CqUgS5eNnGDDTqV-7" value="Session team member identifies intruder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="125" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFOl3CqUgS5eNnGDDTqV-9" target="QTP_rjhEmB7sAVA2Bv7R-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gFOl3CqUgS5eNnGDDTqV-9" value="Session responsible notified" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFOl3CqUgS5eNnGDDTqV-13" target="gFOl3CqUgS5eNnGDDTqV-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gFOl3CqUgS5eNnGDDTqV-13" value="Session team member or live production team notices disruption" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="127" width="120" height="60" as="geometry" />
@@ -58,11 +67,11 @@
         <mxCell id="gFOl3CqUgS5eNnGDDTqV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFOl3CqUgS5eNnGDDTqV-18" target="gFOl3CqUgS5eNnGDDTqV-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gFOl3CqUgS5eNnGDDTqV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.953;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gFOl3CqUgS5eNnGDDTqV-18" target="QTP_rjhEmB7sAVA2Bv7R-6">
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.924;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gFOl3CqUgS5eNnGDDTqV-18" target="QTP_rjhEmB7sAVA2Bv7R-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gFOl3CqUgS5eNnGDDTqV-18" value="Livestreaming" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="441" y="200" width="99" height="80" as="geometry" />
+          <mxGeometry x="435.5" y="200" width="99" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gFOl3CqUgS5eNnGDDTqV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFOl3CqUgS5eNnGDDTqV-19" target="QTP_rjhEmB7sAVA2Bv7R-6">
           <mxGeometry relative="1" as="geometry" />
