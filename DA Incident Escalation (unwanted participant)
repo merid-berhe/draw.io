@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T12:11:25.057Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="4EUFdTHnVkXBX2z7NVJ8" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T12:14:58.718Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="zs6P6x8P9LzwtQeVEgHg" version="14.2.3" type="github">
   <diagram id="BCS4Byyt6D9nxNQFLDX1" name="Incident">
     <mxGraphModel dx="1113" dy="689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
         <mxCell id="gFOl3CqUgS5eNnGDDTqV-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFOl3CqUgS5eNnGDDTqV-41" target="gFOl3CqUgS5eNnGDDTqV-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gFOl3CqUgS5eNnGDDTqV-41" value="Level 1 resolved" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gFOl3CqUgS5eNnGDDTqV-41" value="Case &lt;br&gt;resolved" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47" y="218" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gFOl3CqUgS5eNnGDDTqV-44" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
