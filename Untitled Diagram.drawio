@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T20:23:11.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="cRk_LxlgNAXkJ63MlyGR" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T20:31:39.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="wERe1TLP52XQAf9ProMI" version="14.6.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -160,7 +160,7 @@
         <mxCell id="kkBGDYYdDlyMSQgDSRYE-91" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1035" y="310" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kkBGDYYdDlyMSQgDSRYE-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkBGDYYdDlyMSQgDSRYE-92" target="kkBGDYYdDlyMSQgDSRYE-98">
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkBGDYYdDlyMSQgDSRYE-92" target="kkBGDYYdDlyMSQgDSRYE-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kkBGDYYdDlyMSQgDSRYE-92" value="Get antigen and PCR test or PCR only if antigen test is taken at a non Forum test centre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -170,6 +170,9 @@
           <mxGeometry x="1440" y="310" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kkBGDYYdDlyMSQgDSRYE-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkBGDYYdDlyMSQgDSRYE-98" target="kkBGDYYdDlyMSQgDSRYE-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkBGDYYdDlyMSQgDSRYE-98" target="kkBGDYYdDlyMSQgDSRYE-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kkBGDYYdDlyMSQgDSRYE-98" value="S8 state. All requirements met for the next 48 [counting] hours" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -258,6 +261,29 @@
         </mxCell>
         <mxCell id="kkBGDYYdDlyMSQgDSRYE-137" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2475" y="410" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.357;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkBGDYYdDlyMSQgDSRYE-139" target="kkBGDYYdDlyMSQgDSRYE-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1690" y="163" />
+              <mxPoint x="1690" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkBGDYYdDlyMSQgDSRYE-139" target="kkBGDYYdDlyMSQgDSRYE-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-139" value="Red flagged from Kudelski?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1740" y="105" width="120" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-143" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1690" y="230" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-144" value="S11 state. Badge is blocked and participant is asked to check access kiosk for details" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1940" y="127.5" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-146" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1880" y="140" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
