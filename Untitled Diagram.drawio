@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T19:48:24.554Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="y611A81_9oLwwxSTF6FG" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T20:11:03.653Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="3ae3RePDlyW_oAFDXfmF" version="14.6.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1694" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -25,7 +25,7 @@
         <mxCell id="kkBGDYYdDlyMSQgDSRYE-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="kkBGDYYdDlyMSQgDSRYE-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="S7 state. Badge is picked up and participant proceeds to first on-site test" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="S7 state. Participant proceeds to first on-site test" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="875" y="685" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kkBGDYYdDlyMSQgDSRYE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkBGDYYdDlyMSQgDSRYE-1" target="kkBGDYYdDlyMSQgDSRYE-2">
@@ -91,8 +91,8 @@
         <mxCell id="kkBGDYYdDlyMSQgDSRYE-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkBGDYYdDlyMSQgDSRYE-66" target="kkBGDYYdDlyMSQgDSRYE-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kkBGDYYdDlyMSQgDSRYE-66" value="Vax cert is submitted but participant did not upload PCR, participant is at registration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="875" y="120" width="160" height="70" as="geometry" />
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-66" value="Vax cert is submitted but participant did not upload PCR, participant is at registration. Badge is picked up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="872.5" y="115" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kkBGDYYdDlyMSQgDSRYE-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkBGDYYdDlyMSQgDSRYE-77" target="kkBGDYYdDlyMSQgDSRYE-71">
           <mxGeometry relative="1" as="geometry" />
@@ -160,14 +160,47 @@
         <mxCell id="kkBGDYYdDlyMSQgDSRYE-91" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1035" y="310" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkBGDYYdDlyMSQgDSRYE-92" target="kkBGDYYdDlyMSQgDSRYE-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kkBGDYYdDlyMSQgDSRYE-92" value="Get antigen and PCR test or PCR only if antigen test is taken at a non Forum test centre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1500" y="295" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kkBGDYYdDlyMSQgDSRYE-94" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1440" y="310" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kkBGDYYdDlyMSQgDSRYE-96" value="Participant proceeds to Forum &lt;br&gt;test centre for &lt;br&gt;the first onsite testing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="990" y="685" width="370" height="20" as="geometry" />
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkBGDYYdDlyMSQgDSRYE-98" target="kkBGDYYdDlyMSQgDSRYE-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-98" value="S8 state. All requirements met for the next 48 [counting] hours" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1720" y="295" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkBGDYYdDlyMSQgDSRYE-100" target="kkBGDYYdDlyMSQgDSRYE-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkBGDYYdDlyMSQgDSRYE-100" target="kkBGDYYdDlyMSQgDSRYE-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-100" value="Remaining time &lt;br&gt;&amp;gt;12 hours?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1940" y="272.5" width="120" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-113" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1880" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkBGDYYdDlyMSQgDSRYE-114" target="kkBGDYYdDlyMSQgDSRYE-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-114" value="Remaining time &lt;br&gt;= 0.00 hours?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1940" y="105" width="120" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-116" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2006" y="240" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-117" value="S9 state. Remaining time and test centre map link displayed" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2110" y="127.5" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kkBGDYYdDlyMSQgDSRYE-119" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2070" y="140" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
