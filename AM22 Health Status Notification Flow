@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T16:34:39.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="M-Dwd7HHDYgBQc9qZn2J" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T16:42:44.153Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="7jgDE9IJXevyQd3wrAwm" version="14.6.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2600" dy="1548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -360,10 +360,10 @@
           <mxGeometry x="2277" y="735" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--47" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=37;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2300.44" y="-2.819999999999993" width="73.12" height="69.64" as="geometry" />
+          <mxGeometry x="2300.44" y="-123.32" width="73.12" height="69.64" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--48" value="&lt;font style=&quot;font-size: 18px&quot;&gt;End&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2316" y="-2" width="42" height="54" as="geometry" />
+          <mxGeometry x="2316" y="-117.5" width="42" height="54" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--50" target="kkBGDYYdDlyMSQgDSRYE-68">
           <mxGeometry relative="1" as="geometry" />
@@ -371,11 +371,11 @@
         <mxCell id="mMaSmK13pjXzoBOitcy--50" value="&lt;b&gt;S1&lt;/b&gt; state where neither the vaccine certificate nor pre-arrival PCR result is submitted" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="876.5" y="17" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mMaSmK13pjXzoBOitcy--56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--54" target="kkBGDYYdDlyMSQgDSRYE-98">
+        <mxCell id="mMaSmK13pjXzoBOitcy--128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--54" target="mMaSmK13pjXzoBOitcy--127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--54" value="&lt;b&gt;S6&lt;/b&gt;&amp;nbsp;state. status changes from S5 after the badge in at the test centre. Upload documents is displayed" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#F8CECC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1700" y="10" width="160" height="95" as="geometry" />
+          <mxGeometry x="1700" y="-136" width="160" height="95" as="geometry" />
         </mxCell>
         <mxCell id="kkBGDYYdDlyMSQgDSRYE-77" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="936.5" y="410" width="40" height="20" as="geometry" />
@@ -393,7 +393,7 @@
           <mxGeometry x="1294" y="379.57" width="132" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--71" value="Badge is inactive" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1714" y="-10" width="132" height="20" as="geometry" />
+          <mxGeometry x="1714" y="-156" width="132" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--72" value="Badge is active" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#00CC00;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2122" y="269.07" width="115" height="20" as="geometry" />
@@ -477,7 +477,7 @@
           <mxGeometry x="1635" y="1018" width="30" height="56" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--112" value="Have not surbmitted pcr pre arrival + has taken pcr&amp;nbsp; antigen&lt;br&gt;needs result back to enger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1653" y="156" width="326" height="32" as="geometry" />
+          <mxGeometry x="1955" y="-316" width="326" height="32" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--113" target="mMaSmK13pjXzoBOitcy--69">
           <mxGeometry relative="1" as="geometry" />
@@ -497,7 +497,7 @@
         <mxCell id="mMaSmK13pjXzoBOitcy--124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.071;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--119" target="kkBGDYYdDlyMSQgDSRYE-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mMaSmK13pjXzoBOitcy--119" value="Take onsite test" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mMaSmK13pjXzoBOitcy--119" value="Take onsite test at Forum testing centre" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1707.5" y="695" width="145" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--121" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -505,6 +505,21 @@
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--126" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1537" y="918" width="25" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--127" target="kkBGDYYdDlyMSQgDSRYE-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--127" target="kkBGDYYdDlyMSQgDSRYE-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--127" value="Result &lt;br&gt;negative" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1868" y="-15.250000000000007" width="99" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--130" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1919" y="200.82" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--136" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2027" y="10" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
