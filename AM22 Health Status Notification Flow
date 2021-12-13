@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T09:44:52.127Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="-3UeIELK5d6v-zAwsSsc" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T09:52:10.259Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="bSHhGFUq2MRJ6vmzGLUp" version="14.6.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2168" dy="1548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1859" dy="1384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -27,12 +27,6 @@
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="&lt;b&gt;S7&lt;/b&gt; state. Participant proceeds to first on-site test. The transition to this state takes place after badge is picked up" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#F8CECC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="868.5" y="683.5" width="173" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="kkBGDYYdDlyMSQgDSRYE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkBGDYYdDlyMSQgDSRYE-1" target="kkBGDYYdDlyMSQgDSRYE-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kkBGDYYdDlyMSQgDSRYE-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#00CC00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="290" y="50" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kkBGDYYdDlyMSQgDSRYE-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkBGDYYdDlyMSQgDSRYE-2" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -297,7 +291,7 @@
           <mxGeometry x="408" y="-109" width="199" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--2" value="Badge Delivery" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1;fontSize=37;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1962" y="-114.43" width="277" height="48" as="geometry" />
+          <mxGeometry x="1462" y="-109" width="277" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--4" value="Participant arrives at registration&lt;br&gt;without submitting pre-arrival PCR test &lt;br&gt;and/or vax cert, bypassing&amp;nbsp;&lt;br&gt;the pre-arrival document upload flow for PCR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="479" y="85" width="250" height="60" as="geometry" />
@@ -315,13 +309,22 @@
           <mxGeometry x="1232" y="310" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--14" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=37;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1110.87" y="470.36" width="85.25" height="84.21" as="geometry" />
+          <mxGeometry x="1116.94" y="470" width="73.12" height="69.64" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--16" value="&lt;font style=&quot;font-size: 12px&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1161" y="396" width="25" height="56" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--17" value="&lt;font style=&quot;font-size: 18px&quot;&gt;End&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1132.5" y="480.07" width="42" height="54" as="geometry" />
+          <mxGeometry x="1132.5" y="470.82" width="42" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--18" target="kkBGDYYdDlyMSQgDSRYE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--18" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;fontSize=37;fontColor=#FFFFFF;fillColor=#00CC00;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="6" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--19" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Start&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="296" y="3" width="48" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
