@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T13:38:19.131Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="7TBb7_vInAiF_JOG4UTq" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T13:49:31.257Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="Dst1W1kBNES1DgV4yGTC" version="14.6.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="5680" dy="3156" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3700" dy="2123" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -433,6 +433,27 @@
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--95" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px&quot;&gt;Blocked (access + badge)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="53" y="165.82" width="171" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--96" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;fontColor=#FFFFFF;fillColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="931" y="1004" width="79.18" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--97" value="Group Badge Delivery" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1;fontSize=37;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="819" y="910" width="399" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--98" value="Participant badge picked up by FSM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="873.9999999999999" y="1114" width="203" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--99" target="kkBGDYYdDlyMSQgDSRYE-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--99" value="&lt;b&gt;S1&lt;/b&gt; state where neither the vaccine certificate nor pre-arrival PCR result is submitted" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1130" y="1041" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--100" value="" style="endArrow=none;dashed=1;html=1;fontSize=37;fontColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.68;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--96" target="mMaSmK13pjXzoBOitcy--99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010.18" y="1082.5" as="sourcePoint" />
+            <mxPoint x="1060.18" y="1032.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
