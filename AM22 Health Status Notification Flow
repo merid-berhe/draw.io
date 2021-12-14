@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T08:49:45.422Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="4j7y5PH47f6x6hxoVFSS" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T10:42:03.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="M7fjLMqCwLqIApcBFB0T" version="14.6.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2640" dy="1664" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="1384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -468,8 +468,8 @@
         <mxCell id="mMaSmK13pjXzoBOitcy--110" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1635" y="1018" width="30" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="mMaSmK13pjXzoBOitcy--112" value="Have not surbmitted pcr pre arrival + has taken pcr&amp;nbsp; antigen&lt;br&gt;needs result back to enger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1955" y="-316" width="326" height="32" as="geometry" />
+        <mxCell id="mMaSmK13pjXzoBOitcy--112" value="How can they upload documents &lt;br&gt;when initially test &lt;br&gt;centre link is displayed &lt;br&gt;and not upload documents" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1506.5" y="-156" width="184" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--113" target="mMaSmK13pjXzoBOitcy--69">
           <mxGeometry relative="1" as="geometry" />
@@ -513,7 +513,7 @@
         <mxCell id="mMaSmK13pjXzoBOitcy--136" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2027" y="10" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mMaSmK13pjXzoBOitcy--154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--152" target="mMaSmK13pjXzoBOitcy--54">
+        <mxCell id="mMaSmK13pjXzoBOitcy--154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=37;fontColor=#FFFFFF;strokeColor=#FF0000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--152" target="mMaSmK13pjXzoBOitcy--54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--152" value="&lt;b&gt;S5&lt;/b&gt;&amp;nbsp;state. vax cert is submitted but participant needs a rapid antigen test and onsite PCR. Visit test centre is displayed" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#F8CECC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
