@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T13:38:47.719Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="P7_j6P69axHiZ5a_JbB7" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T13:46:11.436Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="HiS-DOE_wYsqFR3C6gtc" version="14.6.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2640" dy="1778" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1553" dy="1211" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -435,38 +435,38 @@
         <mxCell id="mMaSmK13pjXzoBOitcy--98" value="Participant badge picked up by FSM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="869.0899999999999" y="1112.82" width="203" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="mMaSmK13pjXzoBOitcy--108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--99" target="mMaSmK13pjXzoBOitcy--104">
+        <mxCell id="mMaSmK13pjXzoBOitcy--160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=37;fontColor=#FFFFFF;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--99" target="mMaSmK13pjXzoBOitcy--113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--99" value="&lt;b&gt;S1&lt;/b&gt; state where neither the vaccine certificate nor pre-arrival PCR result is submitted" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1130" y="1041" width="160" height="70" as="geometry" />
+          <mxGeometry x="1469" y="1049.25" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mMaSmK13pjXzoBOitcy--100" value="" style="endArrow=none;dashed=1;html=1;fontSize=37;fontColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.68;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--96" target="mMaSmK13pjXzoBOitcy--99">
+        <mxCell id="mMaSmK13pjXzoBOitcy--100" value="" style="endArrow=none;dashed=1;html=1;fontSize=37;fontColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.68;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="mMaSmK13pjXzoBOitcy--104">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1010.18" y="1082.5" as="sourcePoint" />
-            <mxPoint x="1060.18" y="1032.5" as="targetPoint" />
+            <mxPoint x="1010.17672" y="1082.7600000000002" as="sourcePoint" />
+            <mxPoint x="1208.68" y="1082" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--102" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.access_control;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1045" y="1017.9999999999999" width="50" height="50" as="geometry" />
+          <mxGeometry x="1335" y="1030" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=37;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--104" target="mMaSmK13pjXzoBOitcy--105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=37;fontColor=#FFFFFF;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--104" target="mMaSmK13pjXzoBOitcy--99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--104" value="Has vax &lt;br&gt;cert recorded" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1436" y="1028.75" width="99" height="94.5" as="geometry" />
+          <mxGeometry x="1144" y="1037" width="99" height="94.5" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--105" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=37;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1448.94" y="1214.25" width="73.12" height="69.64" as="geometry" />
+          <mxGeometry x="1156.94" y="1222.5" width="73.12" height="69.64" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--106" value="&lt;font style=&quot;font-size: 12px&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1487" y="1130.82" width="25" height="56" as="geometry" />
+          <mxGeometry x="1195" y="1139.07" width="25" height="56" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--107" value="&lt;font style=&quot;font-size: 18px&quot;&gt;End&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1464.5" y="1215.07" width="42" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="mMaSmK13pjXzoBOitcy--110" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1635" y="1018" width="30" height="56" as="geometry" />
+          <mxGeometry x="1172.5" y="1223.32" width="42" height="54" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--112" value="How can they upload documents &lt;br&gt;when initially test &lt;br&gt;centre link is displayed &lt;br&gt;and not upload documents" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1506.5" y="-156" width="184" height="60" as="geometry" />
@@ -479,12 +479,6 @@
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--113" value="Has submitted &lt;br&gt;pre-arrival PCR" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1718" y="885" width="120" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="mMaSmK13pjXzoBOitcy--116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=37;fontColor=#FFFFFF;endArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--104" target="mMaSmK13pjXzoBOitcy--113">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1535" y="1076" as="sourcePoint" />
-            <mxPoint x="1780" y="430" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--119" target="kkBGDYYdDlyMSQgDSRYE-98">
           <mxGeometry relative="1" as="geometry" />
@@ -527,6 +521,9 @@
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--157" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px&quot;&gt;Required wait time&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="94.78" y="246.57" width="126" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--159" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1345" y="1063.25" width="30" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
