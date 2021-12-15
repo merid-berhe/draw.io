@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T13:47:02.069Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="O6UzJrGyofBEujN63gVI" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T13:54:44.454Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="ORATiB4jX53-uQO4FEOF" version="14.6.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1553" dy="1211" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3300" dy="2123" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -427,25 +427,19 @@
           <mxGeometry x="94.78" y="162.32" width="171" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--96" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;fontColor=#FFFFFF;fillColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="931" y="1004" width="79.18" height="107" as="geometry" />
+          <mxGeometry x="1342.41" y="1116" width="35.18" height="47.54" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--97" value="Group Badge Delivery" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1;fontSize=37;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="819" y="910" width="399" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="mMaSmK13pjXzoBOitcy--98" value="Participant badge picked up by FSM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="869.0899999999999" y="1112.82" width="203" height="18" as="geometry" />
+        <mxCell id="mMaSmK13pjXzoBOitcy--98" value="Participant badge &lt;br&gt;picked up &lt;br&gt;by FSM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1308.5" y="1170" width="103" height="46" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=37;fontColor=#FFFFFF;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--99" target="mMaSmK13pjXzoBOitcy--113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--99" value="&lt;b&gt;S1&lt;/b&gt; state where neither the vaccine certificate nor pre-arrival PCR result is submitted" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1469" y="1049.25" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="mMaSmK13pjXzoBOitcy--100" value="" style="endArrow=none;dashed=1;html=1;fontSize=37;fontColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.68;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="mMaSmK13pjXzoBOitcy--104">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1010.17672" y="1082.7600000000002" as="sourcePoint" />
-            <mxPoint x="1208.68" y="1082" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--102" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.access_control;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1335" y="1030" width="50" height="50" as="geometry" />
@@ -524,6 +518,30 @@
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--159" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1345" y="1063.25" width="30" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--161" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;fontColor=#FFFFFF;fillColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="48.18999999999997" y="319.7300000000001" width="35.18" height="47.54" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--162" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px&quot;&gt;FSM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="94.78" y="316" width="40" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=37;fontColor=#FFFFFF;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--163" target="mMaSmK13pjXzoBOitcy--104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--163" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;fontSize=37;fontColor=#FFFFFF;fillColor=#00CC00;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="954" y="1054" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--164" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Start&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="959" y="1052" width="48" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--166" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;fontColor=#FFFFFF;fillColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="857" y="1059" width="33" height="44.59" as="geometry" />
+        </mxCell>
+        <mxCell id="mMaSmK13pjXzoBOitcy--167" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="893" y="1086" as="sourcePoint" />
+            <mxPoint x="953.5" y="1086" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
