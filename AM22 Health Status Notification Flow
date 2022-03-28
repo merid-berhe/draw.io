@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T15:49:05.167Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="iwH-8Mcemt6KKSj85b4S" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T17:52:24.415Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Fwl_BE3Blydg_cByDoO6" version="17.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2189" dy="1460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4753" dy="2863" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -275,8 +275,8 @@
         <mxCell id="mMaSmK13pjXzoBOitcy--1" value="Pre-Arrival" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1;fontSize=37;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="-267" width="199" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="mMaSmK13pjXzoBOitcy--2" value="Badge Delivery" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1;fontSize=37;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1457" y="-267" width="277" height="48" as="geometry" />
+        <mxCell id="mMaSmK13pjXzoBOitcy--2" value="Standard Badge Delivery" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1;fontSize=37;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1495" y="-267" width="448" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--4" value="Participant goes to registration&lt;br&gt;without submitting pre-arrival PCR test &lt;br&gt;and/or vax cert, bypassing&amp;nbsp;&lt;br&gt;the pre-arrival document upload flow for PCR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="437.5" y="-137" width="250" height="60" as="geometry" />
