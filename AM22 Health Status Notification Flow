@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T07:25:53.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="DIHNCa-2UMxIpWaTk_27" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T07:49:27.723Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Rf8pierwXnA2yyMZ77i2" version="17.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1901" dy="1385" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="1324" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -280,8 +280,8 @@
         <mxCell id="mMaSmK13pjXzoBOitcy--2" value="Standard Badge Delivery" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1;fontSize=37;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1495" y="-267" width="448" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="mMaSmK13pjXzoBOitcy--4" value="Participant goes to registration&lt;br&gt;without submitting pre-arrival PCR test &lt;br&gt;and/or vax cert, bypassing&amp;nbsp;&lt;br&gt;the pre-arrival document upload flow for PCR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="437.5" y="-137" width="250" height="60" as="geometry" />
+        <mxCell id="mMaSmK13pjXzoBOitcy--4" value="Participant goes to registration&lt;br&gt;without submitting pre-arrival PCR test &lt;br&gt;and/or vax cert, bypassing&amp;nbsp;&lt;br&gt;the pre-arrival document upload flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="455.5" y="-137" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=37;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mMaSmK13pjXzoBOitcy--7" target="mMaSmK13pjXzoBOitcy--14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -559,6 +559,12 @@
         </mxCell>
         <mxCell id="EZeudcGmOiIyQY9Cq5wF-10" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px&quot;&gt;TopLink status cards&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="94.78" y="395.5" width="138" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="EZeudcGmOiIyQY9Cq5wF-11" value="ideal path" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#FFE599;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="301" y="226.57" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EZeudcGmOiIyQY9Cq5wF-12" value="alternate path" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#FFE599;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="507" y="-43" width="86" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
