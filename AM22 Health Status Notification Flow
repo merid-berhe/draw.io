@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T07:20:50.725Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="V_SuYuYuNlsWNOClUr1o" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T07:25:53.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="DIHNCa-2UMxIpWaTk_27" version="17.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1901" dy="1385" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -547,6 +547,18 @@
         </mxCell>
         <mxCell id="mMaSmK13pjXzoBOitcy--168" value="FSM at &lt;br&gt;registration to &lt;br&gt;pick up participant badge" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="802" y="1103.59" width="143" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="EZeudcGmOiIyQY9Cq5wF-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="38.19" y="391.32" width="51.81" height="19.68" as="geometry" />
+        </mxCell>
+        <mxCell id="EZeudcGmOiIyQY9Cq5wF-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="37.97" y="419.57" width="51.81" height="19.68" as="geometry" />
+        </mxCell>
+        <mxCell id="EZeudcGmOiIyQY9Cq5wF-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="37.97" y="447.32" width="51.81" height="19.68" as="geometry" />
+        </mxCell>
+        <mxCell id="EZeudcGmOiIyQY9Cq5wF-10" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px&quot;&gt;TopLink status cards&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="94.78" y="395.5" width="138" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
