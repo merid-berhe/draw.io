@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T12:07:02.056Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ypZVMHPFYDEXKdlNFcJ9" version="17.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-30T12:53:04.388Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="EvCDUU7fc3IjouW_IOxW" version="17.1.0" type="github" pages="2">
   <diagram name="AM22_May (current)" id="B98lvPv7xUIJxmgCTg04">
-    <mxGraphModel dx="2189" dy="1460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4066" dy="2369" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-0" />
         <mxCell id="l8ZjBaR4fag7LrvMr4va-1" parent="l8ZjBaR4fag7LrvMr4va-0" />
@@ -154,7 +154,7 @@
         <mxCell id="HjiB0hv8opN3xGaQr4ru-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=24;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-49" target="eNxc-_5a0Q9-YKx7fErF-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-49" value="&lt;b&gt;S6a&lt;/b&gt;&amp;nbsp;state.&lt;br&gt;All requirements met for the next 48 [counting] hours. Participant needs one more test before the end of event" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#99FF99;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
+        <mxCell id="l8ZjBaR4fag7LrvMr4va-49" value="&lt;b&gt;S6a&lt;/b&gt;&amp;nbsp;state.&lt;br&gt;All requirements met for the next 24 [counting] hours. Participant needs one more test before the end of event" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#99FF99;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="2037" y="291.57" width="160" height="226.43" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-52" target="l8ZjBaR4fag7LrvMr4va-56">
@@ -473,7 +473,7 @@
         <mxCell id="eNxc-_5a0Q9-YKx7fErF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="eNxc-_5a0Q9-YKx7fErF-0" target="l8ZjBaR4fag7LrvMr4va-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eNxc-_5a0Q9-YKx7fErF-0" value="Test taken &lt;br&gt;before 48 hrs?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
+        <mxCell id="eNxc-_5a0Q9-YKx7fErF-0" value="Test taken &lt;br&gt;before 24 hrs?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="2328" y="291.07" width="120" height="115" as="geometry" />
         </mxCell>
         <mxCell id="eNxc-_5a0Q9-YKx7fErF-5" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
