@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T09:42:53.802Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="qJ0n99R8WVhyKkymbKod" version="17.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-30T09:43:33.895Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="oEjZ_tRUPenirxYUgg7U" version="17.1.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="AM22_JAN (old)">
     <mxGraphModel dx="2587" dy="1653" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -591,7 +591,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AM22_May (current)" id="B98lvPv7xUIJxmgCTg04">
-    <mxGraphModel dx="4743" dy="2697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3162" dy="1931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-0" />
         <mxCell id="l8ZjBaR4fag7LrvMr4va-1" parent="l8ZjBaR4fag7LrvMr4va-0" />
@@ -1023,9 +1023,6 @@
         <mxCell id="l8ZjBaR4fag7LrvMr4va-137" value="Both &lt;br&gt;documents uploaded" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="1523.5" y="1151.3600000000001" width="99" height="94.5" as="geometry" />
         </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-139" value="&lt;font style=&quot;font-size: 12px&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
-          <mxGeometry x="932" y="1236" width="25" height="56" as="geometry" />
-        </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-146" value="Take onsite test at Forum testing centre. Doesn&#39;t wait for results" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="2685" y="1717" width="145" height="80" as="geometry" />
         </mxCell>
@@ -1034,9 +1031,6 @@
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-156" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Clock-128.png;fontSize=37;fontColor=#FFFFFF;fillColor=#FF0000;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="2740" y="1444" width="46" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-159" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
-          <mxGeometry x="899" y="1238.3200000000002" width="30" height="56" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-160" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;fontColor=#FFFFFF;fillColor=#FF0000;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="45.40999999999997" y="250.55000000000007" width="35.18" height="47.54" as="geometry" />
