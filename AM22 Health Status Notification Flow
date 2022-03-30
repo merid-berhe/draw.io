@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T09:44:46.551Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="NTu3hGq9-NQlrNi_zOJe" version="17.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-30T09:55:15.975Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="EIgCg7-g470KjEYGSons" version="17.1.0" type="github" pages="2">
   <diagram name="AM22_May (current)" id="B98lvPv7xUIJxmgCTg04">
-    <mxGraphModel dx="4066" dy="2369" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3558" dy="2123" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-0" />
         <mxCell id="l8ZjBaR4fag7LrvMr4va-1" parent="l8ZjBaR4fag7LrvMr4va-0" />
@@ -97,7 +97,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-30" value="Has both&lt;br&gt;docs on&lt;br&gt;&amp;nbsp;hand" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
-          <mxGeometry x="907.78" y="297.82" width="100" height="100" as="geometry" />
+          <mxGeometry x="906.5" y="297.82" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TNgprxs-nHbBIG_9Ty8d-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-32" target="l8ZjBaR4fag7LrvMr4va-49">
           <mxGeometry relative="1" as="geometry">
@@ -137,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-41" value="Take a test and upload using the upload tool" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
-          <mxGeometry x="1476.5" y="513" width="145" height="50" as="geometry" />
+          <mxGeometry x="1477.78" y="513" width="145" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-42" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="1558" y="411" width="30" height="20" as="geometry" />
@@ -290,14 +290,8 @@
         <mxCell id="l8ZjBaR4fag7LrvMr4va-87" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="1214.28" y="328.82" width="30" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-88" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=37;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
-          <mxGeometry x="1100.94" y="470.75" width="73.12" height="69.64" as="geometry" />
-        </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-89" value="&lt;font style=&quot;font-size: 12px&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="1139" y="387.32" width="25" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-90" value="&lt;font style=&quot;font-size: 18px&quot;&gt;End&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
-          <mxGeometry x="1116.5" y="471.57" width="42" height="54" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-92" target="l8ZjBaR4fag7LrvMr4va-12">
           <mxGeometry relative="1" as="geometry" />
@@ -354,7 +348,7 @@
         <mxCell id="l8ZjBaR4fag7LrvMr4va-106" value="&lt;font style=&quot;font-size: 18px&quot;&gt;End&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="2587" y="-211.18" width="42" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-108" target="l8ZjBaR4fag7LrvMr4va-30">
+        <mxCell id="HjiB0hv8opN3xGaQr4ru-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=24;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-108" target="l8ZjBaR4fag7LrvMr4va-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-108" value="&lt;b&gt;S1&lt;/b&gt; state where neither the vaccine certificate nor pre-arrival PCR result is submitted" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
@@ -490,7 +484,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-178" value="&lt;b&gt;S3a&lt;/b&gt; or &lt;b&gt;S3b&lt;/b&gt; depending on which document is missing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
-          <mxGeometry x="1077.5" y="23.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1078.78" y="24" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-179" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="962" y="111" width="30" height="18" as="geometry" />
@@ -581,6 +575,15 @@
         </mxCell>
         <mxCell id="DQ01eoraG1n_Fpof7YwJ-5" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="1830" y="1137.0000000000002" width="30" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="HjiB0hv8opN3xGaQr4ru-1" value="" style="group" vertex="1" connectable="0" parent="l8ZjBaR4fag7LrvMr4va-1">
+          <mxGeometry x="1102" y="475" width="73.11999999999989" height="69.63999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="l8ZjBaR4fag7LrvMr4va-88" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=37;" vertex="1" parent="HjiB0hv8opN3xGaQr4ru-1">
+          <mxGeometry width="73.12" height="69.64" as="geometry" />
+        </mxCell>
+        <mxCell id="l8ZjBaR4fag7LrvMr4va-90" value="&lt;font style=&quot;font-size: 18px&quot;&gt;End&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="HjiB0hv8opN3xGaQr4ru-1">
+          <mxGeometry x="15.559999999999945" y="0.8199999999999932" width="42" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
