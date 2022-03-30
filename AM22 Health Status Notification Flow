@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T09:57:24.032Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="V2ftfII_8JPmzD199QOT" version="17.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-30T10:39:09.641Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="QNwXzKeJAEb9afzKAGzI" version="17.1.0" type="github" pages="2">
   <diagram name="AM22_May (current)" id="B98lvPv7xUIJxmgCTg04">
-    <mxGraphModel dx="1498" dy="1125" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4066" dy="2369" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-0" />
         <mxCell id="l8ZjBaR4fag7LrvMr4va-1" parent="l8ZjBaR4fag7LrvMr4va-0" />
@@ -409,7 +409,7 @@
           <mxGeometry x="1281.19" y="1109.0000000000002" width="35.18" height="47.54" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-130" value="Group Badge Delivery" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1;fontSize=37;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
-          <mxGeometry x="812" y="873.0000000000002" width="399" height="48" as="geometry" />
+          <mxGeometry x="1519.5" y="809.0000000000002" width="399" height="48" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-131" value="Participant badge(s)&lt;br&gt;picked up &lt;br&gt;by FSM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="1240.28" y="1163.0000000000002" width="118" height="46" as="geometry" />
