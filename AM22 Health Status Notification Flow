@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T10:39:09.641Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="QNwXzKeJAEb9afzKAGzI" version="17.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-30T11:06:07.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Mz-RS4OygXMmvKTHNa9D" version="17.1.0" type="github" pages="2">
   <diagram name="AM22_May (current)" id="B98lvPv7xUIJxmgCTg04">
-    <mxGraphModel dx="4066" dy="2369" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="974" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-0" />
         <mxCell id="l8ZjBaR4fag7LrvMr4va-1" parent="l8ZjBaR4fag7LrvMr4va-0" />
         <mxCell id="l8ZjBaR4fag7LrvMr4va-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-3" target="l8ZjBaR4fag7LrvMr4va-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-3" value="Only one of the documents is submitted successfully" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
+        <mxCell id="l8ZjBaR4fag7LrvMr4va-3" value="Only one of the documents is uploaded successfully" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="74.5" y="819" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-7" target="l8ZjBaR4fag7LrvMr4va-3">
@@ -19,7 +19,7 @@
         <mxCell id="l8ZjBaR4fag7LrvMr4va-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-7" target="l8ZjBaR4fag7LrvMr4va-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-7" value="Both vax cert &amp;amp; PCR submitted successfully" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
+        <mxCell id="l8ZjBaR4fag7LrvMr4va-7" value="Both vax cert &amp;amp; PCR uploaded successfully" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="199.5" y="660" width="155" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-9" value="&lt;b&gt;S7&lt;/b&gt; state. Participant proceeds to first on-site test. The transition to this state takes place after badge is picked up" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFE599;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
@@ -72,7 +72,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-22" value="Upload successful" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
+        <mxCell id="l8ZjBaR4fag7LrvMr4va-22" value="Upload of both documents&lt;br&gt;successful" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="89.5" y="1398" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-24" target="l8ZjBaR4fag7LrvMr4va-22">
@@ -113,7 +113,7 @@
         <mxCell id="l8ZjBaR4fag7LrvMr4va-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=37;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-34" target="l8ZjBaR4fag7LrvMr4va-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-34" value="&lt;b&gt;S6&lt;/b&gt;&amp;nbsp;state. vax cert is submitted but participant needs an onsite PCR. Upload document" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#F8CECC;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
+        <mxCell id="l8ZjBaR4fag7LrvMr4va-34" value="&lt;b&gt;S5&lt;/b&gt;&amp;nbsp;state. vax cert is submitted but participant needs an onsite PCR. Upload document" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#F8CECC;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="1281.28" y="301.32" width="160" height="95" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-35" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
@@ -148,7 +148,7 @@
         <mxCell id="TNgprxs-nHbBIG_9Ty8d-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-45" target="l8ZjBaR4fag7LrvMr4va-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-45" value="Get PCR test. Badge becomes active once&lt;br&gt;&amp;nbsp;a test is recorded. Participant does not upload a document. It&#39;s done automatically.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
+        <mxCell id="l8ZjBaR4fag7LrvMr4va-45" value="Get PCR test. Badge becomes active once&lt;br&gt;&amp;nbsp;a test is recorded. Participant &lt;b&gt;does not&lt;/b&gt; upload a document. It&#39;s done automatically.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="1700" y="292.57" width="160" height="113" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-46" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
@@ -157,7 +157,7 @@
         <mxCell id="HjiB0hv8opN3xGaQr4ru-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=24;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-49" target="eNxc-_5a0Q9-YKx7fErF-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-49" value="&lt;b&gt;S8a&lt;/b&gt;&amp;nbsp;state.&lt;br&gt;All requirements met for the next 48 [counting] hours. Participant needs one more test before the end of event" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#99FF99;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
+        <mxCell id="l8ZjBaR4fag7LrvMr4va-49" value="&lt;b&gt;S6a&lt;/b&gt;&amp;nbsp;state.&lt;br&gt;All requirements met for the next 48 [counting] hours. Participant needs one more test before the end of event" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#99FF99;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="2037" y="291.57" width="160" height="226.43" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-52" target="l8ZjBaR4fag7LrvMr4va-56">
@@ -187,7 +187,7 @@
         <mxCell id="l8ZjBaR4fag7LrvMr4va-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-59" target="l8ZjBaR4fag7LrvMr4va-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-59" value="&lt;b&gt;S9 &lt;/b&gt;state. Remaining time is &amp;lt;12 and !=0. Remaining time and test centre map gateway displayed" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFE599;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
+        <mxCell id="l8ZjBaR4fag7LrvMr4va-59" value="&lt;b&gt;S7&amp;nbsp;&lt;/b&gt;state. Remaining time is &amp;lt;12 and !=0. Remaining time and test centre map gateway displayed" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFE599;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="2901" y="313.57" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-60" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
@@ -196,7 +196,7 @@
         <mxCell id="l8ZjBaR4fag7LrvMr4va-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-62" target="l8ZjBaR4fag7LrvMr4va-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-62" value="&lt;b&gt;S10 &lt;/b&gt;state. Message indicates that badge is blocked and test centre map gateway displayed" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#F8CECC;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
+        <mxCell id="l8ZjBaR4fag7LrvMr4va-62" value="&lt;b&gt;S8&amp;nbsp;&lt;/b&gt;state. Message indicates that badge is blocked and test centre map gateway displayed" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#F8CECC;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="2698" y="474" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-63" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
@@ -257,7 +257,7 @@
         <mxCell id="l8ZjBaR4fag7LrvMr4va-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-78" target="l8ZjBaR4fag7LrvMr4va-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-78" value="&lt;b&gt;S11&lt;/b&gt; state. Badge is blocked and participant is asked to check access kiosk for details" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#F8CECC;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
+        <mxCell id="l8ZjBaR4fag7LrvMr4va-78" value="&lt;b&gt;S9&lt;/b&gt;&amp;nbsp;state. Badge is blocked and participant is asked to check access kiosk for details" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#F8CECC;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="2528" y="34.389999999999986" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-79" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
@@ -284,7 +284,7 @@
         <mxCell id="l8ZjBaR4fag7LrvMr4va-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-86" target="l8ZjBaR4fag7LrvMr4va-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-86" value="Has vax &lt;br&gt;proof?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
+        <mxCell id="l8ZjBaR4fag7LrvMr4va-86" value="Has valid &lt;br&gt;vax &lt;br&gt;proof?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="1089.28" y="301.32" width="99" height="94.5" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-87" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
@@ -330,7 +330,7 @@
         <mxCell id="l8ZjBaR4fag7LrvMr4va-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=37;fontColor=#FFFFFF;" edge="1" parent="l8ZjBaR4fag7LrvMr4va-1" source="l8ZjBaR4fag7LrvMr4va-101" target="l8ZjBaR4fag7LrvMr4va-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-101" value="Both documents&lt;br&gt;submitted&amp;nbsp;&lt;br&gt;successfully" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
+        <mxCell id="l8ZjBaR4fag7LrvMr4va-101" value="Both documents&lt;br&gt;uploaded&amp;nbsp;&lt;br&gt;successfully" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="337" y="1209" width="130" height="127" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-102" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
@@ -373,10 +373,10 @@
           <mxGeometry x="2923.5" y="293.57" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-118" value="Badge is inactive" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
-          <mxGeometry x="2562" y="499" width="132" height="20" as="geometry" />
+          <mxGeometry x="2563" y="499.82" width="132" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-119" value="Badge is inactive" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
-          <mxGeometry x="2693" y="59.389999999999986" width="132" height="20" as="geometry" />
+          <mxGeometry x="2542" y="14.389999999999986" width="132" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-120" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.access_control;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="1204.28" y="351.8899999999999" width="50" height="50" as="geometry" />
@@ -428,9 +428,6 @@
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-146" value="Take onsite test at Forum testing centre. Doesn&#39;t wait for results" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="2685" y="1717" width="145" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="l8ZjBaR4fag7LrvMr4va-155" value="&lt;b&gt;S5&lt;/b&gt;&amp;nbsp;state. vax cert is submitted but participant needs a rapid antigen test and onsite PCR. Visit test centre is displayed" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#F8CECC;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
-          <mxGeometry x="2681" y="1324" width="160" height="95" as="geometry" />
         </mxCell>
         <mxCell id="l8ZjBaR4fag7LrvMr4va-156" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Clock-128.png;fontSize=37;fontColor=#FFFFFF;fillColor=#FF0000;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="2740" y="1444" width="46" height="46" as="geometry" />
@@ -510,7 +507,7 @@
         <mxCell id="eNxc-_5a0Q9-YKx7fErF-6" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="2472" y="318" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eNxc-_5a0Q9-YKx7fErF-7" value="&lt;b&gt;S8b&lt;/b&gt;&amp;nbsp;state.&lt;br&gt;All requirements met for the remainder of the event. No more tests required" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#99FF99;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
+        <mxCell id="eNxc-_5a0Q9-YKx7fErF-7" value="&lt;b&gt;S6b&lt;/b&gt;&amp;nbsp;state.&lt;br&gt;All requirements met for the remainder of the event. No more tests required" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#99FF99;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
           <mxGeometry x="2037" y="-43.829999999999984" width="160" height="226.43" as="geometry" />
         </mxCell>
         <mxCell id="eNxc-_5a0Q9-YKx7fErF-9" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="l8ZjBaR4fag7LrvMr4va-1">
