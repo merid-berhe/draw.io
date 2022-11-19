@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-19T17:45:33.728Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1xBPiT80ekOvkgW_kdZp" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-19T17:46:28.448Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="s7uL86CSluzTnWzauXya" version="20.5.1" type="github" pages="3">
   <diagram name="AM23" id="SrV7TO2oxaRuMIT4v3oa">
-    <mxGraphModel dx="4913" dy="3443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3276" dy="2562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="IHtP2wybphcCRugFo-t1-0" />
         <mxCell id="IHtP2wybphcCRugFo-t1-1" parent="IHtP2wybphcCRugFo-t1-0" />
@@ -293,13 +293,16 @@
           <mxGeometry x="2956" y="399.5" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Uq7ueAtoVhukMtxcuvC_-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Clock-128.png;fontSize=37;fontColor=#FFFFFF;fillColor=#FF0000;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
-          <mxGeometry x="2948" y="437" width="46" height="46" as="geometry" />
+          <mxGeometry x="2787.12" y="305" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="Uq7ueAtoVhukMtxcuvC_-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Clock-128.png;fontSize=37;fontColor=#FFFFFF;fillColor=#FF0000;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
           <mxGeometry x="6.670000000000016" y="510" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="Uq7ueAtoVhukMtxcuvC_-2" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Mandatory wait time&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
           <mxGeometry x="61.78" y="498" width="143" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq7ueAtoVhukMtxcuvC_-4" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
+          <mxGeometry x="2912.333333333333" y="548.5555555555557" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
