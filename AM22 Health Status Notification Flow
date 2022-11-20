@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T10:07:16.092Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wWrhLyRpeD-rKLSbVY2n" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-20T18:22:33.127Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="IS4-Of7TfxAALn4ibPgA" version="20.5.1" type="github" pages="3">
   <diagram name="AM23" id="SrV7TO2oxaRuMIT4v3oa">
-    <mxGraphModel dx="2680" dy="2242" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2948" dy="2386" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="IHtP2wybphcCRugFo-t1-0" />
         <mxCell id="IHtP2wybphcCRugFo-t1-1" parent="IHtP2wybphcCRugFo-t1-0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="initial state when badge is not picked up. Everyone sees this no matter their badge (participant + FSM)&amp;nbsp;" linkTarget="_blank" id="IHtP2wybphcCRugFo-t1-10">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
             <mxGeometry x="341" y="-102" width="160" height="70" as="geometry" />
           </mxCell>
         </UserObject>
@@ -51,7 +51,7 @@
         <mxCell id="TOptMW3JQYZBKcg1sp_C-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IHtP2wybphcCRugFo-t1-1" source="IHtP2wybphcCRugFo-t1-114" target="TOptMW3JQYZBKcg1sp_C-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IHtP2wybphcCRugFo-t1-114" value="&lt;b&gt;you&#39;re all set message with a countdown and testing centre map&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
+        <mxCell id="IHtP2wybphcCRugFo-t1-114" value="&lt;b&gt;you&#39;re all set message with a countdown and testing centre map. Countdown until 23:59 Tuesday.&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
           <mxGeometry x="631" y="127.21000000000001" width="229" height="111.19" as="geometry" />
         </mxCell>
         <mxCell id="IHtP2wybphcCRugFo-t1-116" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
@@ -170,7 +170,7 @@
         <mxCell id="6v_cMH0nYO5kGjemxweq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="IHtP2wybphcCRugFo-t1-1" source="6v_cMH0nYO5kGjemxweq-6" target="IHtP2wybphcCRugFo-t1-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o7EWSlf2zcfGdkeE7teE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IHtP2wybphcCRugFo-t1-1" source="6v_cMH0nYO5kGjemxweq-6" target="VIIx2Dajlqd_r2vo2yKq-0">
+        <mxCell id="h8VRa2c5xRFN024ce_bn-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IHtP2wybphcCRugFo-t1-1" source="6v_cMH0nYO5kGjemxweq-6" target="o7EWSlf2zcfGdkeE7teE-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6v_cMH0nYO5kGjemxweq-6" value="Is Public Figure" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
@@ -208,23 +208,11 @@
         <mxCell id="6v_cMH0nYO5kGjemxweq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IHtP2wybphcCRugFo-t1-1" source="6v_cMH0nYO5kGjemxweq-26" target="6v_cMH0nYO5kGjemxweq-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6v_cMH0nYO5kGjemxweq-26" value="&lt;b&gt;you&#39;re all set message with a countdown and testing centre map&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
+        <mxCell id="6v_cMH0nYO5kGjemxweq-26" value="&lt;b&gt;you&#39;re all set message with a countdown and testing centre map. Countdown until 23:59 Tuesday.&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
           <mxGeometry x="294.88" y="610" width="254.12" height="102" as="geometry" />
         </mxCell>
         <mxCell id="6v_cMH0nYO5kGjemxweq-30" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
           <mxGeometry x="429" y="1018" width="30" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="o7EWSlf2zcfGdkeE7teE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IHtP2wybphcCRugFo-t1-1" source="VIIx2Dajlqd_r2vo2yKq-0" target="o7EWSlf2zcfGdkeE7teE-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JWF6MCkQSVjdSZRHtoAG-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IHtP2wybphcCRugFo-t1-1" source="VIIx2Dajlqd_r2vo2yKq-0" target="uv_cSafQESUEshjy0xxb-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VIIx2Dajlqd_r2vo2yKq-0" value="Remaining time &lt;br&gt;&amp;gt;12 hours?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
-          <mxGeometry x="1302.5" y="559.9999999999999" width="120" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="o7EWSlf2zcfGdkeE7teE-1" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
-          <mxGeometry x="1475" y="591.9999999999999" width="30" height="18" as="geometry" />
         </mxCell>
         <mxCell id="o7EWSlf2zcfGdkeE7teE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IHtP2wybphcCRugFo-t1-1" source="o7EWSlf2zcfGdkeE7teE-3" target="6v_cMH0nYO5kGjemxweq-0">
           <mxGeometry relative="1" as="geometry" />
@@ -233,19 +221,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o7EWSlf2zcfGdkeE7teE-3" value="Remaining time &lt;br&gt;= 0.00 hours?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
-          <mxGeometry x="1302.5" y="759.9999999999999" width="120" height="115" as="geometry" />
+          <mxGeometry x="1302.5" y="667.9999999999999" width="120" height="115" as="geometry" />
         </mxCell>
         <mxCell id="o7EWSlf2zcfGdkeE7teE-6" value="&amp;nbsp;Remaining time is &amp;lt;12 and !=0. Remaining time and test centre map gateway displayed" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFE599;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
-          <mxGeometry x="1576" y="773.75" width="344" height="87.5" as="geometry" />
-        </mxCell>
-        <mxCell id="o7EWSlf2zcfGdkeE7teE-8" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
-          <mxGeometry x="1372" y="707.9999999999999" width="30" height="20" as="geometry" />
+          <mxGeometry x="1623" y="681.75" width="344" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="o7EWSlf2zcfGdkeE7teE-9" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
           <mxGeometry x="1370.5" y="928.9999999999999" width="30" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="o7EWSlf2zcfGdkeE7teE-10" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
-          <mxGeometry x="1475" y="788.9999999999999" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2eLYnAyLTpkeEiNlmO52-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IHtP2wybphcCRugFo-t1-1" source="o7EWSlf2zcfGdkeE7teE-11" target="2eLYnAyLTpkeEiNlmO52-3">
           <mxGeometry relative="1" as="geometry" />
@@ -326,9 +308,6 @@
         </mxCell>
         <mxCell id="PrIruqkDNJJPoMmawYeg-7" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
           <mxGeometry x="559" y="384.00000000000006" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uv_cSafQESUEshjy0xxb-0" value="&lt;b&gt;badge is active and can enter CC but need to testing requirement period is greater than 12 hrs&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#99FF99;" vertex="1" parent="IHtP2wybphcCRugFo-t1-1">
-          <mxGeometry x="1580" y="565.75" width="278" height="103.5" as="geometry" />
         </mxCell>
         <mxCell id="cH87AO6o84p_TtRp18cd-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="IHtP2wybphcCRugFo-t1-1" source="o7EWSlf2zcfGdkeE7teE-6" target="o7EWSlf2zcfGdkeE7teE-6">
           <mxGeometry relative="1" as="geometry" />
