@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T09:17:28.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="n9Z60TR_XRTDn0CpVmVR" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T09:25:10.999Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="G2DqQ01NL0V1dR9D37AU" version="20.5.1" type="github">
   <diagram name="AM23" id="SrV7TO2oxaRuMIT4v3oa">
-    <mxGraphModel dx="3591" dy="2369" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1197" dy="1056" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="IHtP2wybphcCRugFo-t1-0" />
         <mxCell id="IHtP2wybphcCRugFo-t1-1" parent="IHtP2wybphcCRugFo-t1-0" />
@@ -228,10 +228,10 @@
           <mxGeometry x="2582.12" y="304" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="Uq7ueAtoVhukMtxcuvC_-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Clock-128.png;fontSize=37;fontColor=#FFFFFF;fillColor=#FF0000;" parent="IHtP2wybphcCRugFo-t1-1" vertex="1">
-          <mxGeometry x="3.000000000000016" y="325.38" width="46" height="46" as="geometry" />
+          <mxGeometry x="7.780000000000016" y="325.38" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="Uq7ueAtoVhukMtxcuvC_-2" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Mandatory wait time&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=37;fontColor=#FFFFFF;" parent="IHtP2wybphcCRugFo-t1-1" vertex="1">
-          <mxGeometry x="58.11" y="313.38" width="143" height="56" as="geometry" />
+          <mxGeometry x="62.89" y="313.38" width="143" height="56" as="geometry" />
         </mxCell>
         <mxCell id="NEjdIrq4v7tSngBZ0g02-0" value="" style="group" parent="IHtP2wybphcCRugFo-t1-1" vertex="1" connectable="0">
           <mxGeometry x="2315.8900000000003" y="-128" width="50" height="59" as="geometry" />
