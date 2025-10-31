@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="3HSCfOAjiKLJWCzMellR">
+    <mxGraphModel dx="2066" dy="1126" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-29" value="" style="group;spacing=-1;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="183" y="563" width="231" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-30" value="KNOWLEDGE GRAPH" style="swimlane;whiteSpace=wrap;html=1;" parent="PhydwYgBBOLl1hlIEMEA-29" vertex="1">
+          <mxGeometry width="231" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-31" value="&lt;span style=&quot;font-weight: normal; text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Transform data into a connected network. Model the conceptual relationship between people, topics, organisations, and content to reason across them.&amp;nbsp;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;spacing=-7;fontStyle=1" parent="PhydwYgBBOLl1hlIEMEA-30" vertex="1">
+          <mxGeometry x="24" y="36" width="197" height="79.39" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-35" value="" style="group;spacing=-1;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="313" y="737" width="231" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-39" value="" style="group" parent="PhydwYgBBOLl1hlIEMEA-35" vertex="1" connectable="0">
+          <mxGeometry width="231" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-36" value="SEARCH AND RANKING" style="swimlane;whiteSpace=wrap;html=1;" parent="PhydwYgBBOLl1hlIEMEA-39" vertex="1">
+          <mxGeometry width="231" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-37" value="&lt;span style=&quot;font-weight: normal; text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Combine meaning and relationships, parsing user questions into key concepts. Retrieve matches from vectors and graph. Explain why a person appears in search result.&amp;nbsp;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;spacing=-7;fontStyle=1" parent="PhydwYgBBOLl1hlIEMEA-36" vertex="1">
+          <mxGeometry x="19" y="36" width="197" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-40" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="436" y="563" width="231" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-33" value="SEMANTIC EMBEDDINGS" style="swimlane;whiteSpace=wrap;html=1;container=0;" parent="PhydwYgBBOLl1hlIEMEA-40" vertex="1">
+          <mxGeometry width="231" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-34" value="&lt;span style=&quot;font-weight: normal; text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Extract meaning from data: CV, digital profiles, publications, etc., to enable concept-based search beyond keywords.&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;spacing=-7;fontStyle=1" parent="PhydwYgBBOLl1hlIEMEA-40" vertex="1">
+          <mxGeometry x="19" y="47" width="197" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-41" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="314" y="899" width="231" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-42" value="EXPERIENCE &amp;amp; API LAYER" style="swimlane;whiteSpace=wrap;html=1;container=0;" parent="PhydwYgBBOLl1hlIEMEA-41" vertex="1">
+          <mxGeometry width="231" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-43" value="&lt;span style=&quot;font-weight: normal; text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Search UI showing results with explanation and confidence levels. Feedback signals (relevant or not) to improve future rankings&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;spacing=-7;fontStyle=1" parent="PhydwYgBBOLl1hlIEMEA-41" vertex="1">
+          <mxGeometry x="19" y="47" width="197" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhydwYgBBOLl1hlIEMEA-9" target="PhydwYgBBOLl1hlIEMEA-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="544" y="198" as="sourcePoint" />
+            <mxPoint x="594" y="148" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhydwYgBBOLl1hlIEMEA-22" target="PhydwYgBBOLl1hlIEMEA-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="554" y="357" as="sourcePoint" />
+            <mxPoint x="554" y="413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-38" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="313" y="69" width="231" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-9" value="DATA SOURCE" style="swimlane;whiteSpace=wrap;html=1;" parent="PhydwYgBBOLl1hlIEMEA-38" vertex="1">
+          <mxGeometry width="231" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-19" value="&lt;span style=&quot;font-weight: normal; text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Collect information about people and organizations from internal and external systems&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;spacing=-7;fontStyle=1" parent="PhydwYgBBOLl1hlIEMEA-38" vertex="1">
+          <mxGeometry x="20" y="47" width="193" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-22" value="INGESTION &amp;amp; NORMALIZATION" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="313" y="227" width="231" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-23" value="&lt;span style=&quot;font-weight: normal; text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Clean and standardise data from all sources, validating formats, deduping, and dedacting sensitive information.&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;spacing=-7;fontStyle=1" parent="PhydwYgBBOLl1hlIEMEA-22" vertex="1">
+          <mxGeometry x="20" y="42" width="195" height="74.39" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-26" value="" style="group;spacing=-1;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="313" y="388" width="231" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-27" value="CANONICAL DATA MODEL" style="swimlane;whiteSpace=wrap;html=1;" parent="PhydwYgBBOLl1hlIEMEA-26" vertex="1">
+          <mxGeometry width="231" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-28" value="&lt;span style=&quot;font-weight: normal; text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Store all verified data in a unified structure, creating one source of truth for downstream processing.&amp;nbsp;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;spacing=-7;fontStyle=1" parent="PhydwYgBBOLl1hlIEMEA-27" vertex="1">
+          <mxGeometry x="17" y="46.61" width="197" height="79.39" as="geometry" />
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.636;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PhydwYgBBOLl1hlIEMEA-28" target="PhydwYgBBOLl1hlIEMEA-30" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462" y="581" as="sourcePoint" />
+            <mxPoint x="512" y="531" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.394;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PhydwYgBBOLl1hlIEMEA-28" target="PhydwYgBBOLl1hlIEMEA-33" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462" y="581" as="sourcePoint" />
+            <mxPoint x="662" y="527" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.189;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PhydwYgBBOLl1hlIEMEA-30" target="PhydwYgBBOLl1hlIEMEA-36" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="301" y="710" as="sourcePoint" />
+            <mxPoint x="301" y="759" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.65;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="PhydwYgBBOLl1hlIEMEA-36" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="463" y="690" as="sourcePoint" />
+            <mxPoint x="539" y="745" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhydwYgBBOLl1hlIEMEA-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PhydwYgBBOLl1hlIEMEA-36" target="PhydwYgBBOLl1hlIEMEA-42" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="574" y="870" as="sourcePoint" />
+            <mxPoint x="574" y="916" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
